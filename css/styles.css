@@ -11861,7 +11861,7 @@ section.cta:before {
   }
   .features-device-mockup .shape-1 {
     top: 5%;
-    right: -15%;
+    /* right: -15%; */
   }
   .features-device-mockup .shape-2 {
     bottom: 10%;
